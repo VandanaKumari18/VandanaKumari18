@@ -6,7 +6,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vandanakumari18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vandanakumari18" height="30" width="40" /></a>
-<a href="https://kaggle.com/179vandanakumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="179vandanakumari" height="30" width="40" /></a>
+<a href="https://kaggle.com/
+vandana_kumari18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="
+vandana_kumari18" height="30" width="40" /></a>
 <a href="https://instagram.com/_vandna_kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vandna_kumari" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vandana_kumari18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vandana_kumari18" height="30" width="40" /></a>
 </p>
