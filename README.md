@@ -5,12 +5,6 @@
 </div>
 
 <p align="center">
-I build things end to end — from React/Next.js frontends to Python ML pipelines,
-most recently an autonomous AI agent that makes its own decisions instead of
-following a fixed script.
-</p>
-
-<p align="center">
 <a href="https://linkedin.com/in/vandanakumari18" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://kaggle.com/vandana_kumari18" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 <a href="mailto:vandana047271@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
