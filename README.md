@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vandana+%F0%9F%91%8B;Full-stack+dev+%2B+ML%2FAI+enthusiast;Building+agentic+AI+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vandana+%F0%9F%91%8B;Software+Engineer" alt="Typing SVG" />
 
 </div>
 
 <p align="center">
-I build things end to end — from React/Next.js frontends and Python ML pipelines
-to, most recently, an autonomous AI agent that makes its own decisions instead
-of following a fixed script.
+I build things end to end — from React/Next.js frontends to Python ML pipelines,
+most recently an autonomous AI agent that makes its own decisions instead of
+following a fixed script.
 </p>
 
 <p align="center">
@@ -53,11 +53,6 @@ decides for itself which of its tools are worth running, in what order.
 ---
 
 ### 📊 GitHub stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=VandanaKumari18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VandanaKumari18&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=VandanaKumari18&theme=tokyonight&hide_border=true" />
